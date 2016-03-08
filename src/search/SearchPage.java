@@ -18,4 +18,5 @@ public class SearchPage {
 		driver.findElement(By.xpath("//*[contains(@title , '" + book + "')]")).click();		
 	}
 	
+	
 }
